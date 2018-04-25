@@ -12,4 +12,5 @@ angular spring boot jwt https://github.com/mahammadrafid/Springboot_Angular5_jwt
 https://github.com/dyc87112/SpringBoot-Learning
 
 https://github.com/JeffLi1993/springboot-learning-example
+https://github.com/ityouknow/spring-boot-examples
 
